@@ -1631,6 +1631,8 @@
   ./services/web-apps/slskd.nix
   ./services/web-apps/snipe-it.nix
   ./services/web-apps/sogo.nix
+  ./services/web-apps/spliit.nix
+  ./services/web-apps/stash.nix
   ./services/web-apps/stirling-pdf.nix
   ./services/web-apps/stash.nix
   ./services/web-apps/trilium.nix
