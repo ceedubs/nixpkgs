@@ -10,7 +10,6 @@ in
 {
   meta = {
     maintainers = with lib.maintainers; [ qvalentin ];
-    doc = ./spliit.md;
   };
 
   options.services.spliit = with lib; {
